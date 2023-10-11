@@ -1,3 +1,4 @@
 #!/bin/bash
-chown vicent:staff ./
+chown vicent permissions chgrp staff permissions
+
 
